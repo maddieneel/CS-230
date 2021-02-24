@@ -4,10 +4,10 @@
 
 
 # What did you do particularly well in developing this documentation?
-
+I felt most comfortable with executive summary, design constraints, and the domain model. 
 
 # What about the process of working through a design document did you find helpful when developing the code?
-
+Truthfully, the only section I referenced when developing the code was the domain model. 
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
