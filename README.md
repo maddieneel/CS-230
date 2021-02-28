@@ -13,7 +13,7 @@ Truthfully, the only section I referenced frequently when developing the code wa
 If I could revise a section, I would choose recommendations. Reason being, I would want to be more straight forward on what I believe is needed rather than including information that was not.
 
 # How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-Some of the users needs include ability to use many operating systems, enough storage to store the images, security, the ability for multiple players to play together ignoring the differences in platforms, and most importantly create the game. 
-
+Some of the users needs include ability to use many operating systems, enough storage to store the images, security, the ability for multiple players to play together ignoring the differences in platforms, and most importantly to create the game. It is extremely important to grant the users wishes as that is what they came to you for. It is not guaranteed you can create the exact replica of what they want, but working side-by-side with them will allow you to create the best possible product.
 
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+To create the software design template, I used readings from the class as well as googling examples. While googling, I got a better understanding on what is important to include and what is not. Afterwords, the readings from the class gave me the data I would need to include. I will continue to use this strategy for future software applications. 
